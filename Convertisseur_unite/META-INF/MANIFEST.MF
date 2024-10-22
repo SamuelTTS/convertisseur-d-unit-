@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 21.0.2+13-LTS-58 (Oracle Corporation)
+Class-Path: lib/com.mysql.jdbc_5.1.5.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: convertisseur_unite.Convertisseur_unite
+
